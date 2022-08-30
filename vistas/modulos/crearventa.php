@@ -5,7 +5,7 @@
 
       <h1>
 
-        Crear ventas
+        Crear venta
 
       
       </h1>
@@ -15,7 +15,7 @@
 
         <li><a href="#"><i class="fa fa-dashboard"></i>Inicio</a></li>
       
-        <li class="active">Crear ventas</li>
+        <li class="active">Crear venta</li>
 
       </ol>
 

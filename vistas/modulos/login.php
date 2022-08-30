@@ -1,9 +1,11 @@
+ <div id="back"></div>
+
  <div class="login-box">
 
   <div class="login-logo">
 
     <img src="vistas/img/plantilla/logoblanco.png" class="
-    img-responsive" style="pading:30px 100px 0px 100px"
+    img-responsive" style="pading:30px 100px 0px 100px">
   </div>
 
   
